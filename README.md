@@ -35,14 +35,7 @@ pip install -r requirements.txt
 ### **4️⃣ Run the Project**  
 If your project is a Python script:  
 ```bash
-python main.py
-```
-(Replace `main.py` with the actual entry point of your project.)  
-
-If it’s a **Flask/Django app**:  
-```bash
-flask run  # For Flask
-python manage.py runserver  # For Django
+python task_manager.py
 ```
 
 ---
